@@ -1,3 +1,6 @@
+# **Input Pipeline**
+![](images/INPUT%20PIPELINE.jpg)
+
 # **TensorFlow Model**
 ![](images/TFModel1.jpg)
 ![](images/TFModel.jpg)
